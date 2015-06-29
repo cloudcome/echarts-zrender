@@ -29,10 +29,5 @@ ec.init(document.getElementById('demo'));
 ```
 
 
-## 饼状图
-```
-require('./echarts/chart/pie');
-ec.init(document.getElementById('demo'));
-```
 
 其他类型图表同理。
